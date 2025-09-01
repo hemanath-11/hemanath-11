@@ -30,6 +30,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  
+  <img width="50" height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>  
-  <img width="50" height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel"/>  
+  <img width="50" height="50" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 </p>
