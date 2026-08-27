@@ -4,7 +4,7 @@
 
 - 🔭 Check out my [Portfolio](https://www.hemanath.online/)  
 - 🌱 **I completed my B.Sc. in Computer Science, specializing in Artificial Intelligence and Machine Learning, from 2023 to 2026**  
-- 🏆** Achieved a CGPA of 9.41, securing the 1st rank in my department**  
+- 🏆**Achieved a CGPA of 9.41, securing the 1st rank in my department**  
 - 💻 Completed internships at **two companies**, gaining hands-on industry experience  
 - 🎓 Proud to be a **first-generation graduate** 😎  
 - 📫 Reach me on:  
